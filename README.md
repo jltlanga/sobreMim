@@ -1,1 +1,2 @@
 # sobreMim
+Este código de html consiste basicamente de uma breve auto-apresentação, arrolando, essencialmente, o meu histórico acadêmico. Na verdade isso será parte de um portifílio, que está em desenvolvimento.
